@@ -6,6 +6,7 @@
 - 하나 클릭시 그 영화에 대한 정보 나옴.
 - 다른 경로로 이동시 오류 페이지뜨며, 메인 페이지로 이동 버튼 클릭시 메인 페이지로 이동.
 
+
 ![2](https://github.com/rlaxodn322/movie-web/assets/133329997/733925c4-91a9-4ca8-bbc7-015b8408a90a)
 ![3](https://github.com/rlaxodn322/movie-web/assets/133329997/2549a5f7-dd52-40c9-b4df-cb8a6c01ecf8)
 ![4](https://github.com/rlaxodn322/movie-web/assets/133329997/6c12d1e1-1159-4fd7-9530-814a7969b37c)
